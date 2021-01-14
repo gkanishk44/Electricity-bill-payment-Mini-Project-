@@ -27,12 +27,18 @@ while logging in he/she has to just enter the password along with the UserId and
 
 #### THE DASHBOARD HAS OPTIONS FOR GOING TO WALLET,UPDATING DETAILS,RESETTING PIN AND IF THERE IS A PENDING BILL IT WILL BE DISPLAYED THERE.
 
-(1)WHEN IT IS THE FIRST TIME USER HAS VISITED THE PORTAL, he/she has to enter the bank details for using payment portals.
+(1)For First Time Users, he/she has to enter the bank details for using payment portals. After entering these details he/she can proceed towards transactions.
+
 <p align="center">
   <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/Images/8-Bank.png">
 </p>
-                                         After entering these details he/she can proceed towards transactions.
 
+(2)If the user wants to update Personal Information details or change Bank account, he/she can use details option present on the dashboard.
+<p align="center">
+  <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/Images/7-Detail.png">
+</p>
+
+    
 
 
 
