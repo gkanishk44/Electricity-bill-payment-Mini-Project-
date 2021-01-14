@@ -11,3 +11,9 @@
   <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/Images/dd.png">
 </p>
 
+### The individual who wants to use this web application has to register on the portal-
+(Here is how a basic registration looks like)
+<p align="center">
+  <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/Images/2-Registration.png">
+</p>
+
