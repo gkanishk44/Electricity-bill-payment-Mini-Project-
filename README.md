@@ -8,6 +8,6 @@
 
 
 <p align="center">
-  <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/dd.png">
+  <img width="700" height="390" src="https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-/blob/main/Images/dd.png">
 </p>
 
