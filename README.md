@@ -39,6 +39,5 @@ while logging in he/she has to just enter the password along with the UserId and
 </p>
 
     
-
-
+I hope you liked this Project and This is Just a beta version of this Project and is still under Progress.
 
